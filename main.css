@@ -1,0 +1,17 @@
+/* * {
+  background-color: red;
+} */
+.logo {
+  width: 50px;
+  height: auto;
+  border-radius: 50%;
+}
+.my-custom-row {
+  background-color: rgb(97, 94, 94);
+  height: 300px;
+  max-width: 300px;
+  color: whitesmoke;
+  padding : 10px;
+  border: solid 2px rgb(241, 243, 238);
+  border-radius: 3%;
+}
